@@ -1,5 +1,6 @@
 {
     "name": "lbr-react-scripts",
+    "author": "alberteddu",
     "version": "1.0.0",
     "description": "Configuration and scripts for Create React App.",
     "repository": "facebookincubator/create-react-app",
